@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <div className="max-w-6xl mx-auto space-y-4">
+    <div className="max-w-6xl mx-auto space-y-4 p-6">
       <h1 className="text-2xl font-medium text-amber-600">About</h1>
       <p>His having within saw become ask passed misery giving. 
       Recommend questions get too fulfilled. He fact in we case 
